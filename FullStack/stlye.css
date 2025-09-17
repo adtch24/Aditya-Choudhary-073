@@ -1,0 +1,14 @@
+h1{
+    color: green;
+}
+div{
+    color: darkblue;
+}
+p{
+    color: black;
+}
+/*universal selector*/
+*{
+    font-family: 'courier new',courier;
+  text-align: center;
+}
