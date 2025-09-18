@@ -1,0 +1,47 @@
+div.g1{
+    color:seagreen ;
+    font-size: larger;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    border: 2px solid black;
+    background-color: aquamarine;
+}
+div.g2{
+    color: blue;
+    font-size:x-large;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    border: 2px solid black;
+    background-color: aquamarine;
+}
+div.g3{
+    color:red;
+    font-size: xx-large;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    border: 2px solid black;
+    background-color: aquamarine;
+}
+img{
+    width: 200px;
+    height: 150px;
+}
+p{
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     text-transform: uppercase;
+}
+
+a{
+    text-decoration: none;
+}
+
+ body {
+  background-image: url('back1.jpg');
+}

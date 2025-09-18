@@ -1,0 +1,12 @@
+p2{
+    color: white;
+}
+body{
+    background-color: black;
+}
+p1{
+    background-color: red;
+}
+input [type=text]{
+   background-color: red;
+}
