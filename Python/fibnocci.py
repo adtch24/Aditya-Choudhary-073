@@ -1,0 +1,13 @@
+n=int(input())
+a=int(input())
+b=int(input())
+print(a)
+print(b)
+i=1
+while(i<=n):
+    temp=a+b
+    print(temp)
+    a=b
+    b=temp
+    temp=a
+    i=i+1
