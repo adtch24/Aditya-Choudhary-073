@@ -1,0 +1,14 @@
+.FORM{
+    width: 1000px;
+  height: 400px;
+  background: linear-gradient(to bottom, white, blacK);
+  border-radius: 25px;
+  border-color: aqua;
+  padding: 15px 18px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.NAME{
+
+}

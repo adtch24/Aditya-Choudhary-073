@@ -43,5 +43,5 @@ a{
 }
 
  body {
-  background-image: url('back1.jpg');
+   background:linear-gradient(yellow,green,red);
 }
